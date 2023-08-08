@@ -1,5 +1,5 @@
 const boton = document.getElementById('boton')
-const botonReset = document.getElementById('boton')
+const botonReset = document.getElementById('boton2')
 const contador = document.getElementById('contador')
 
 let cuenta = 0
